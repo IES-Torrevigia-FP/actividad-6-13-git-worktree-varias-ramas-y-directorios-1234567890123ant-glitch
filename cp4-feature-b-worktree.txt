@@ -1,0 +1,7 @@
+git worktree add -b feature-b ../wt-feature.b main
+ 
+<salida de git worktree list>
+
+diferencia entre git branch y git worktree add -b:
+- git branch solo crea la rama, pero no cambia ni crea un dir 
+- git worktree add -b crea la rama y ademas crea un nuevo dir 

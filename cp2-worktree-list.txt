@@ -1,0 +1,12 @@
+Salida de git worktree list:
+
+(aquí pegas lo que te salga al ejecutar git worktree list)
+
+Explicación:
+
+Hay dos worktrees:
+- El directorio principal donde está la rama main.
+- El directorio ../wt-feature-a que corresponde a la rama feature-a.
+
+Cada worktree tiene su propia carpeta, pero todos comparten el mismo repositorio git.
+

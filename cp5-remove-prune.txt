@@ -1,0 +1,12 @@
+git worktree remove ../wt-feature-a
+
+ANTES:
+(aquí pegas la salida de git worktree list antes de eliminar)
+
+DESPUÉS:
+(aquí pegas la salida de git worktree list después de eliminar)
+
+Diferencia entre remove y prune:
+- git worktree remove elimina un worktree concreto y su directorio.
+- git worktree prune limpia referencias de worktrees que ya no
+ existen en el sistema (por ejemplo, si se han borrado manualmente).

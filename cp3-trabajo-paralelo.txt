@@ -1,0 +1,10 @@
+Salida actual de git worktree list:
+
+(aquí pegas la salida de git worktree list)
+
+Explicación del trabajo en paralelo:
+
+- En el worktree principal (rama main) se ha añadido un cambio independiente en el README.
+- En el worktree ../wt-feature-a (rama feature-a) se han añadido detalles adicionales de la funcionalidad A.
+
+Esto demuestra que se puede trabajar en paralelo en distintas ramas usando distintos directorios sin interferir entre ellos.

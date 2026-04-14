@@ -1,0 +1,10 @@
+b30ad66 add deadline
+0f10f15 Añade funcionalidad A
+6c82b62 Actualiza README en main
+fb41700 Amplía detalles de funcionalidad A
+5501427 Añade funcionalidad A
+eb3c729 Commit inicial en main
+deb1ad7 Initial commit
++ feature-a
+* feature-b
++ main
